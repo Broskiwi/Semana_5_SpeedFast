@@ -12,6 +12,7 @@ Carrera: Analista Programador Computacional
 Sede: Modalidad Online 
 
 📘 Descripción General
+
 Este proyecto implementa una simulación avanzada de logística multihilo para la empresa SpeedFast. El sistema coordina el flujo de pedidos desde una zona de carga centralizada hasta su entrega final, utilizando un modelo de Productor-Consumidor. La solución garantiza la integridad de los datos y evita condiciones de carrera mediante el uso de estructuras de datos concurrentes y un pool de hilos optimizado.
 
 🧱 Estructura del Proyecto
